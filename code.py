@@ -1,5 +1,3 @@
-firstName = "Alireza"
-age = 15
-print(f"Hi {firstName}, hows it going?")
-print(type(age))
-print(type(firstName))
+gpa = 3.85
+gpa = str(gpa)
+print(type(gpa))
